@@ -18,7 +18,9 @@ Filtered clip 2:
 https://user-images.githubusercontent.com/21331289/195654427-99c8e36b-0abe-43b5-9ea8-b178d8048af0.mp4
 
 
+Spectrum of Clip 1:
+![Spectrogram_clip1](https://user-images.githubusercontent.com/21331289/195655384-384644ee-ba94-4324-b34f-545a09b509dd.jpg)
 
-
-
+Spectrogram of Clip 2:
+![Spectrogram_clip2](https://user-images.githubusercontent.com/21331289/195655437-08eb3a01-ca3f-4746-80f0-18e6f25a0cf8.jpg)
 
