@@ -24,3 +24,7 @@ Spectrum of Clip 1:
 Spectrogram of Clip 2:
 ![Spectrogram_clip2](https://user-images.githubusercontent.com/21331289/195655437-08eb3a01-ca3f-4746-80f0-18e6f25a0cf8.jpg)
 
+
+Moving average of the more powerful frequency - clip1:
+
+
