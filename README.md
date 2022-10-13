@@ -26,5 +26,10 @@ Spectrogram of Clip 2:
 
 
 Moving average of the more powerful frequency - clip1:
+![Case1](https://user-images.githubusercontent.com/21331289/195661215-95cfb943-5f63-4859-8933-35195f7ad0e7.jpg)
+
+Moving average of the more powerful frequency - clip1:
+![Case2](https://user-images.githubusercontent.com/21331289/195661335-2a18c4b7-494b-48b8-abee-5f4a9b64736c.jpg)
+
 
 
